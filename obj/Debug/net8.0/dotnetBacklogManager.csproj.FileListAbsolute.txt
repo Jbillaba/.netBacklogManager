@@ -1,0 +1,17 @@
+/home/jbillalba/coding/cs/dotnetBacklogManager/bin/Debug/net8.0/dotnetBacklogManager
+/home/jbillalba/coding/cs/dotnetBacklogManager/bin/Debug/net8.0/dotnetBacklogManager.deps.json
+/home/jbillalba/coding/cs/dotnetBacklogManager/bin/Debug/net8.0/dotnetBacklogManager.runtimeconfig.json
+/home/jbillalba/coding/cs/dotnetBacklogManager/bin/Debug/net8.0/dotnetBacklogManager.dll
+/home/jbillalba/coding/cs/dotnetBacklogManager/bin/Debug/net8.0/dotnetBacklogManager.pdb
+/home/jbillalba/coding/cs/dotnetBacklogManager/bin/Debug/net8.0/Spectre.Console.dll
+/home/jbillalba/coding/cs/dotnetBacklogManager/obj/Debug/net8.0/dotnetBacklogManager.csproj.AssemblyReference.cache
+/home/jbillalba/coding/cs/dotnetBacklogManager/obj/Debug/net8.0/dotnetBacklogManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/jbillalba/coding/cs/dotnetBacklogManager/obj/Debug/net8.0/dotnetBacklogManager.AssemblyInfoInputs.cache
+/home/jbillalba/coding/cs/dotnetBacklogManager/obj/Debug/net8.0/dotnetBacklogManager.AssemblyInfo.cs
+/home/jbillalba/coding/cs/dotnetBacklogManager/obj/Debug/net8.0/dotnetBacklogManager.csproj.CoreCompileInputs.cache
+/home/jbillalba/coding/cs/dotnetBacklogManager/obj/Debug/net8.0/dotnetBacklogManager.csproj.CopyComplete
+/home/jbillalba/coding/cs/dotnetBacklogManager/obj/Debug/net8.0/dotnetBacklogManager.dll
+/home/jbillalba/coding/cs/dotnetBacklogManager/obj/Debug/net8.0/refint/dotnetBacklogManager.dll
+/home/jbillalba/coding/cs/dotnetBacklogManager/obj/Debug/net8.0/dotnetBacklogManager.pdb
+/home/jbillalba/coding/cs/dotnetBacklogManager/obj/Debug/net8.0/dotnetBacklogManager.genruntimeconfig.cache
+/home/jbillalba/coding/cs/dotnetBacklogManager/obj/Debug/net8.0/ref/dotnetBacklogManager.dll
