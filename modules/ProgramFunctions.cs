@@ -17,6 +17,12 @@ class Program
         }
     }
 
+    public static void SeeTitles()
+    {
+        AnsiConsole.Clear();
+        
+    }
+
     public static void AddTitle()
     {
         AnsiConsole.Clear();
@@ -33,7 +39,8 @@ class Program
                 AddTitle();
                 break;
             case "Exit":
-                Environment.Exit(1);
+                var answer = AnsiConsole.Confirm("would you like to exit the program?", false);
+                if (answer == true) {Environment.Exit(1);}
                 break;
         }
     }

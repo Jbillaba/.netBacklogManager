@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnetBacklogManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef95ce15ccef0b2e386953062a517be231be2cf0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d48c33a127e844831f0d4f8051d960a16536fc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnetBacklogManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnetBacklogManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
