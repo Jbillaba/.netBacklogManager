@@ -2,7 +2,7 @@ using Spectre.Console;
 
 class Program
 {
-    public static List<string> MenuChoices = new() {"Add Title", "Exit"};
+    public static List<string> MenuChoices = new() {"Add Title", "See Titles", "Exit"};
     public static List<Game> games = new();
 
     public class Game
@@ -20,7 +20,12 @@ class Program
     public static void SeeTitles()
     {
         AnsiConsole.Clear();
-        
+        if (games.Count == 0){AnsiConsole.WriteLine("no games"); };
+        foreach (var game in games)
+        {
+            AnsiConsole.Markup($" ~ {game.Title}\n");
+        }
+        var answer = AnsiConsole.Confirm("return to menu ?", false);
     }
 
     public static void AddTitle()
@@ -37,6 +42,9 @@ class Program
         {
             case "Add Title":
                 AddTitle();
+                break;
+            case "See Titles":
+                SeeTitles();
                 break;
             case "Exit":
                 var answer = AnsiConsole.Confirm("would you like to exit the program?", false);
