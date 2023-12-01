@@ -15,3 +15,4 @@
 /home/jbillalba/coding/cs/dotnetBacklogManager/obj/Debug/net8.0/dotnetBacklogManager.pdb
 /home/jbillalba/coding/cs/dotnetBacklogManager/obj/Debug/net8.0/dotnetBacklogManager.genruntimeconfig.cache
 /home/jbillalba/coding/cs/dotnetBacklogManager/obj/Debug/net8.0/ref/dotnetBacklogManager.dll
+/home/jbillalba/coding/cs/dotnetBacklogManager/obj/Debug/net8.0/dotnetBacklogManager.sourcelink.json
